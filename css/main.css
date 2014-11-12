@@ -8,6 +8,10 @@ body {
 	font-size: 60px;
 }
 
+.sidebar {
+	resize: both;
+	overflow: auto;
+}
 .subtitle {
 	color: #F07C17;
 	font-size: 25px;
