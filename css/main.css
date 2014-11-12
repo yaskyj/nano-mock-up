@@ -6,6 +6,12 @@ body {
 	color: #666666;
 	font-size: 60px;
 }
+
+.subtitle {
+	color: #F07C17;
+	font-size: 25px;
+	font-weight: bold;
+}
 .feature{
 	border-style: solid;
 	border-color: #CCCCCC;
