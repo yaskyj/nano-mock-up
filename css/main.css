@@ -1,6 +1,6 @@
 body {
-	font-family: 'Lucinda Grande', sans-serif;
-	color: #525454;
+	font-family: 'Lucida Grande', sans-serif;
+	color: #666666;
 	font-weight: 300;	
 }
 
@@ -12,6 +12,7 @@ body {
 }
 .title-logo {
 	margin-top: 20px;
+	color: #666666
 }
 .title-super {
 	font-size: 60px;
