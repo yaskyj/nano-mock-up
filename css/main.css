@@ -16,4 +16,5 @@ body{
 	outline: 1px solid #cccccc;
 	line-height: 30px;
 	padding: 10px 0 10px 10px;
+	border-top: 30px;
 }
