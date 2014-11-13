@@ -1,14 +1,16 @@
 body{
 	font-family: 'Lucida Grande', sans-serif;
+	margin-top: 20px;
 }
 p {
 	line-height: 30px;
-	margin-right: 35%;
+	margin-right: 30%;
 }
 .main-title {
 	color: #666666;
 	text-align: center;
-	font-size: 40px;
+	font-size: 350%;
+	margin-bottom: 30px;
 }
 .sidebar {
 	padding-left: 10px;
@@ -17,6 +19,7 @@ p {
 .subtitle {
 	color: #f07c17;
 	font-weight: bold;
+	font-size: 175%;
 	margin-top: 0px;
 }
 .feature {
