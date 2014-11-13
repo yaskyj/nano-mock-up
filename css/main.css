@@ -11,6 +11,8 @@ body{
 }
 .subtitle {
 	color: #f07c17;
+	font-weight: bold;
+	margin-top: 0px;
 }
 .feature {
 	outline: 1px solid #cccccc;
