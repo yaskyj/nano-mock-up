@@ -3,16 +3,33 @@ body {
 	color: #666666;
 }
 
+.main {
+	padding-left: 100px;
+	padding-right: 100px;	
+}
 .main-title {
 	color: #666666;
-	font-size: 60px;
+	font-size: 40px;
 }
 .subtitle {
 	color: #F07C17;
-	font-size: 25px;
+	font-size: 20px;
 	font-weight: bold;
+	margin-top: 0px;
+
+}
+
+.feature-title {
+	padding-bottom: 10px;
+}
+.the-list {
+	padding-top: 2px;
+	padding-bottom: 2px;
 }
 .feature{
 	border-style: solid;
 	border-color: #CCCCCC;
+	border-width: 1px;
+	margin-top: 20px;
+	padding: 20px 20px 20px 20px;
 }
