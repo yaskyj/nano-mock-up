@@ -10,6 +10,9 @@ body {
 .main-title {
 	color: #666666;
 	font-size: 40px;
+	padding-right: 200px;
+	padding-top: 25px;
+	padding-bottom: 15px;
 }
 .subtitle {
 	color: #F07C17;
@@ -18,7 +21,13 @@ body {
 	margin-top: 0px;
 
 }
-
+.paragraph-title {
+	padding-bottom: 10px;
+}
+.paragraph-stuff {
+	padding-right: 200px;
+	line-height: 175%;
+}
 .feature-title {
 	padding-bottom: 10px;
 }
