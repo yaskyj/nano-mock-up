@@ -1,5 +1,5 @@
 /* Main elements */
-body{
+body {
 
 	font-family: 'Lucida Grande', sans-serif;
 
@@ -47,12 +47,6 @@ li {
 	margin-top: 0;
 
 	padding-bottom: 19px;
-
-}
-
-.feature-header {
-
-	padding-left: 1px;
 
 }
 
