@@ -9,7 +9,7 @@ body {
 
 li {
 
-	font: 16px/31px;
+	font: 16px/31px 'Lucida Grande', sans-serif;
 
 	padding: 1px 0 0 1px;
 
@@ -20,9 +20,9 @@ li {
 
 	color: #666;
 
-	font-size: 48px;
+	font: 48px/100% 'Lucida Grande', sans-serif;
 
-	margin: 20px 0 30px 0;
+	margin: 20px 0 32px 0;
 
 }
 
@@ -30,9 +30,9 @@ li {
 
 	color: #f07c17;
 
-	font: bold 40px/100%;
+	font: bold 25px/100% 'Lucida Grande', sans-serif;
 
-	margin: 0 0 0 0;
+	margin: 0 0 10px 0;
 
 	padding: 0 0 19px 0;
 
@@ -43,7 +43,7 @@ li {
 
 	outline: 1px solid #ccc;
 
-	font: 30px;
+	font: 30px/100% 'Lucida Grande', sans-serif;
 
 	padding: 30.5px 2px 31px 29.5px;
 
